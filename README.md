@@ -10,5 +10,6 @@ manager login link:
 
 http://localhost/502assignment/dashboard/login.php
 
-client and host account can be used to login on main homepage
-host and admin account can be used to login on manage page
+Client and host account can be used to login on main homepage, they are both users.
+
+Host and admin account can be used to login on manage page, they both have dashbord mangement.
