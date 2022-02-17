@@ -1,0 +1,219 @@
+
+
+
+
+.sidebar{
+   
+    background-color: #343a40;
+    border-right: 2px solid black;
+   
+    bottom: 0;
+    left: 0;
+    margin-top: 56px;;
+    padding: 40px 10px;
+   
+   
+}
+
+.sidebar .nav-link{
+     color:#fff;
+         text-align: center;
+    font-size: 20px;
+}
+
+.sidebar .nav > li > a{
+    padding: 12px 10px;
+}
+
+
+.sidebar .nav-item.active a {
+    color: #575962;
+    font-weight: 700;
+    background-color: #e9ecef;
+}
+
+
+.navbar-toggler {
+    top: .25rem;
+    right: 1rem;
+}
+
+.page{
+    margin-top:50px;
+    padding-top: 50px;
+    padding-left: 0px;
+}
+
+
+.page_inner{
+    margin-top:50px;
+    
+}
+
+.content {
+    margin-top: 0px;
+    padding-top:10px;
+    
+}
+
+
+
+
+/*harry add for login form*/
+.login-form-group{
+    margin: 10px 0px 10px 0px;
+
+}
+
+.login-form-group label {
+    display:block;
+    text-align:left;
+    margin: 3px;
+
+}
+
+.login-form-group input {
+    height: 30px;
+    width: 93%;
+    padding:5px 10px;
+    font-size:16px;
+    border-radius:5px;
+    border:1px solid gray;
+
+}
+
+.loginbtn{
+    padding:10px;
+    font-size:15px;
+    color:white;
+    
+    border:none;
+    border-radius:5px;
+}
+
+.login_form{
+    width:45%;
+    margin:200px auto;
+    text-align:left;
+    padding:20px;
+    border:1px solid#bbbbbb;
+    border-radius:5px;
+}
+/*harry add for editupdate*/
+.input-group-edit{
+    margin: 10px 0px 10px 0px;
+
+}
+
+.input-group-edit label {
+    display:block;
+    text-align:left;
+    margin: 3px;
+
+}
+
+.input-group-edit input {
+    height: 30px;
+    width: 93%;
+    padding:5px 10px;
+    font-size:16px;
+    border-radius:5px;
+    border:1px solid gray;
+
+}
+
+.editbtn{
+    padding:10px;
+    font-size:15px;
+    color:white;
+    background:#5F9EA0;
+    border:none;
+    border-radius:5px;
+}
+
+.editform{
+    width:45%;
+    margin:50px auto;
+    text-align:left;
+    padding:20px;
+    border:1px solid#bbbbbb;
+    border-radius:5px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-body
+
+.icon-big{
+    font-size: 3em;
+    min-height: 64px;
+}
+
+.icon-small{
+    text-align: center;
+    font-size: 2em;
+    min-height: 50px;
+   
+}
+
+.table .icon-small{
+    text-align: center;
+    font-size: 2em;
+    min-height: 50px;
+   
+}
+
+.table a{
+    color:black; 
+}
+
+.table a:hover{
+    color:cadetblue;
+}
+
+.house_item a{
+    color:black; 
+}
+
+.house_item a:hover{
+    color:cadetblue;
+}
+
+.house_action{
+    margin-top: 50px;
+    vertical-align: middle;
+}
+
+
+
+.house_item{
+    margin: 20px;
+    border: 1px solid black;
+}
+.house_profile{
+    padding: 15px;
+}
+
+.house_name{
+    margin-top:10px;
+}
+
+.house_desc{
+    margin-top: 18px;
+}
+
+.house_ratg{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.house_comm{
+    text-align: center;
+    margin-top: 60px;
+}
+
+table.booking-list{
+    font-size: 80%;
+}

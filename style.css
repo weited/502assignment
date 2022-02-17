@@ -83,16 +83,23 @@
 
 }
 
+/*  timepicker*/
+body{
+ 
+    font-family:arial;
+}
 
+input{
+  
+    font-size: 80px;
+    font-family:arial;
+}
 .check-selection{
     color:white;
     font-weight:600;    
     
     font-family: Helvetica, Arial, sans-serif;
   
-   
-   
-    
 }
 
 
@@ -277,6 +284,13 @@
 .content .main-content .explore-all-accommodation{
     margin: 20px;
 }
+/*description           */
+
+.content .main-content .house-list .post-review .preview-description{
+    font-weight:700; 
+}
+
+
 
 
 
@@ -304,40 +318,121 @@
 
 
 
-
-
-
-/*footer*/
 .footer{
-    background-color: #303036;
-    color: #e5e5f0;
-    height: 300px;
-    position:relative; 
+background-color: #303036;
+color: #e5e5f0;
+height: 300px;
+position:absolute;
 }
+
+
 .footer .footer-content{
-    
-    height: 250px;
-    display: flex;
+
+height: 250px;
+display: flex;
 }
 .footer .footer-content .footer-section{
-    flex: 1;
-    padding: 25px;
-   
-    
+flex: 1;
+padding: 25px;
+
+
 }
 
 
 .footer .footer-bottom{
-    background-color: #292933;
-    color:#e5e5f0;
-    height: 50px;
-    width:100%;
-    text-align: center;
-    position: absolute;
-    bottom: 0px;
-    left: 0px;
-    padding-top: 20px;
+background-color: #292933;
+color:#e5e5f0;
+height: 50px;
+width:100%;
+text-align: center;
+position: absolute;
+bottom: 0px;
+left: 0px;
+padding-top: 20px;
 
-    
+
 }
 
+
+
+.input-group-booking{
+    margin: 10px 0px 10px 0px;
+
+}
+
+.input-group-booking label {
+    display:block;
+    text-align:left;
+    margin: 3px;
+
+}
+
+.input-group-booking input {
+    height: 30px;
+    width: 93%;
+    padding:5px 10px;
+    font-size:16px;
+    border-radius:5px;
+    border:1px solid gray;
+
+}
+
+.bookingbtn{
+    padding:10px;
+    font-size:15px;
+    color:white;
+    background:#5F9EA0;
+    border:none;
+    border-radius:5px;
+}
+
+.bookingform{
+    width:45%;
+    margin:50px auto;
+    text-align:left;
+    padding:20px;
+    border:1px solid#bbbbbb;
+    border-radius:5px;
+}
+
+/*Harry for add payment              harrry*/
+
+.input-group-payment{
+    margin: 10px 0px 10px 0px;
+
+}
+
+.input-group-payment label {
+    display:block;
+    text-align:left;
+    margin: 3px;
+
+}
+
+.input-group-payment input {
+    height: 30px;
+    width: 93%;
+    padding:5px 10px;
+    font-size:16px;
+    border-radius:5px;
+    border:1px solid gray;
+
+}
+
+.paymentbtn{
+    padding:10px;
+    font-size:15px;
+    color:white;
+    background:#5F9EA0;
+    border:none;
+    border-radius:5px;
+}
+
+.paymentmethod{
+    width:45%;
+    margin:50px auto;
+    text-align:left;
+    padding:20px;
+    border:1px solid#bbbbbb;
+    border-radius:5px;
+}

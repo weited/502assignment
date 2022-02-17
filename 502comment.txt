@@ -1,0 +1,16 @@
+script.js 文件要放在 boostrap js 之前
+
+login
+
+house table:   host_id  ->  user_id
+
+
+inner join  连接两个表  https://www.w3schools.com/sql/sql_join_inner.asp
+
+
+????
+edit_user  Process line 15  and  delete_user  15 18,   alert dont show
+user access level type??        host need abn
+if paid, can I cancel ??
+
+change acess level   https://youtu.be/kOTZIs-SQmY?t=578
